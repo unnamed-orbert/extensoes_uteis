@@ -1,3 +1,9 @@
+body{
+    text-align:center; 
+    background-color:black;
+    color:white
+}
+
 a{text-decoration:none;
     font-size:24px;
     color: white
@@ -6,11 +12,5 @@ a{text-decoration:none;
 a:hover{
     text-decoration:underline ;
     color:blue}
-
-body{
-    text-align:center; 
-    background-color:black;
-    color:white
-}
 
 h1{height:max-content}
