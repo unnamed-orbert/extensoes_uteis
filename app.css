@@ -4,6 +4,15 @@ body{
     color:white
 }
 
+
+footer{background-color:rgba(2, 109, 29, 0.445);
+    position:relative;  
+    bottom:0;
+    border-radius: 50px;
+    width: 500px ;
+    margin-left: 300px;
+    margin-right: 400px;}
+
 a{text-decoration:none;
     font-size:24px;
     color: white
@@ -14,3 +23,7 @@ a:hover{
     color:blue}
 
 h1{height:max-content}
+
+h2{color: antiquewhite;}
+
+h2:hover{color: white;}
