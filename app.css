@@ -1,22 +1,30 @@
 body{
     text-align:center; 
     background-color:black;
-    color:white
+    color:rgb(161, 161, 161)
     }
 
-footer{background-color:rgba(47, 53, 39, 0.781);
-        bottom:0;
+.content{background-color:rgba(47, 53, 39, 0.781);
+        bottom:0;padding-bottom: 50px;
         border-radius: 50px; 
         max-width: 600px;
         margin: auto;}
 
 a{text-decoration:none;
     font-size:24px;
-    color: white
+    color: rgb(223, 223, 223)
 }
 
 a:hover{
-    text-decoration:underline ;
+    text-decoration:underline;
+    text-emphasis-color: green;
     color:blue}
 
-h1{height:max-content}
+h1{height:max-content;
+    color: white;
+   letter-spacing: 5px;}
+
+h2{font-size: 21px;}
+
+p:hover{color: rgb(255, 255, 255);
+     font-size: 39px;}

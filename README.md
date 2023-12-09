@@ -1,1 +1,1 @@
-Uma outra lista de extensões que achei uteis!
+Uma lista de extensões que achei uteis!
